@@ -12,7 +12,6 @@
   "dependencies": {
     "lodash": "^3.5.0",
     "promise": "^6.1.0",
-    "q": "^1.2.0",
     "ripple-lib": "^0.12.0"
   }
 }
